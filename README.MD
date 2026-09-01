@@ -11,6 +11,16 @@ Diseñar, construir, asegurar, probar y documentar una aplicación aplicando pr�
 \#Equipo 10%
 
 * Samuel Alcantara Fernandez
-* Chuy Alberto Arroyo Lugo 
-* Brijan Segundo de Jesus
+* Jesus Alberto Arroyo Lugo 
+* Brayan Antonio Segundo de Jesus
+
+
+
+\## Seguridad
+
+
+
+SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
+
+
 
